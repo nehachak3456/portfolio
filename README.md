@@ -5,6 +5,7 @@ I am a Software Developer with experience in PHP and MySQL. I have worked on web
 
 ## 🔧 Skills:
 - PHP (Core & OOP)
+- Laravel(Basic Knowledge)
 - MySQL
 - HTML, CSS, JavaScript
 - Bootstrap
