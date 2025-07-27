@@ -6,6 +6,7 @@ I am a Software Developer with experience in PHP and MySQL. I have worked on web
 ## 🔧 Skills:
 - PHP (Core & OOP)
 - Laravel(Basic Knowledge)
+- Wordpress 
 - MySQL
 - HTML, CSS, JavaScript
 - Bootstrap
@@ -14,6 +15,7 @@ I am a Software Developer with experience in PHP and MySQL. I have worked on web
 1. **State Public Procurement Portal (SPPP)**
    - Tender document management system with role-based access.
    - Features: NIB, BID, SCM upload, and public list display.
+2. https://giraffecommunication.com/
 
 ## 📞 Contact:
 - 📧 Email: nehachak@example.com
